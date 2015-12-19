@@ -1,0 +1,4 @@
+name: FirstPlugIn
+main: io.github.BobJoeTom.FirstPlugIn
+version: 1.0
+commands:
