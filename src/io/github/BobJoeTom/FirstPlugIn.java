@@ -8,7 +8,7 @@ public class FirstPlugIn extends JavaPlugin{
     public void onEnable() {
     	getLogger().info("AOSFINOAISNFOASNFONFAS HEEEEEEEEEEEEELLLLLLLLLLLLLOOOOOOOOOOOOOOOOO WORLD");
     String player = "Brenden is a meme";
-    
+    int bob = 6;
     }
    
     @Override
